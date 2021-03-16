@@ -13,6 +13,12 @@
         <module>web-servlet-response</module>
         <module>web-servlet-request</module>
         <module>web-servlet-context</module>
+        <module>web-session-cookie</module>
+        <module>web-servlet-history01</module>
+        <module>web-servlet-history02</module>
+        <module>web-jsp</module>
+        <module>web-filter</module>
+        <module>web-listener</module>
     </modules>
 
     <dependencies>
@@ -27,5 +33,12 @@
             <artifactId>jsp-api</artifactId>
             <version>2.1</version>
         </dependency>
+
+        <dependency>
+            <groupId>commons-beanutils</groupId>
+            <artifactId>commons-beanutils</artifactId>
+            <version>1.9.4</version>
+        </dependency>
+
     </dependencies>
 </project>

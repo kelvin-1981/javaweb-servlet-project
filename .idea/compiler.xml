@@ -6,10 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="web-servlet-response" />
-        <module name="web-servlet-request" />
         <module name="web-servlet-context" />
+        <module name="web-listener" />
+        <module name="web-jsp" />
         <module name="web-serlvet-welcome" />
+        <module name="web-filter" />
+        <module name="web-servlet-response" />
+        <module name="web-servlet-history02" />
+        <module name="web-servlet-history01" />
+        <module name="web-servlet-request" />
+        <module name="web-session-cookie" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
