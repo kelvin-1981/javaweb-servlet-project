@@ -1,4 +1,4 @@
-package com.yykj.servlet.request;
+package com.yykj.servlet.request.common;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
