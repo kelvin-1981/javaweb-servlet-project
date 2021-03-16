@@ -1,0 +1,6 @@
+# Project exclude paths
+/out/
+/web-serlvet-welcome/target/
+/web-servlet-context/target/
+/web-servlet-request/target/
+/web-servlet-response/target/
